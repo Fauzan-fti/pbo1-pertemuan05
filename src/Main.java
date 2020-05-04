@@ -2,7 +2,7 @@ public class Main {
     public static void main(String[] args) {
 
         //instance
-        FreeFire player1 = new FreeFire());
+        FreeFire player1 = new FreeFire();
         FreeFire player2 = new FreeFire();
 
         player1.userName = "AB.OZZ.MRT";
